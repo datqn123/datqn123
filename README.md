@@ -1,4 +1,11 @@
-[![datqn123](https://github-readme-stats.vercel.app/api?username=datqn123&theme=dracula&count)](https://github.com/datqn123/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123)](https://github.com/datqn123/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=Flutter-GK)](https://github.com/datqn123/Flutter-GK)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datqn123)](https://github.com/anuraghazra/github-readme-stats)
+# Xin chào, tôi là [Nguyễn Chí Đạt] 👋
+
+## Về tôi
+- 💻 Tôi đang học lập trình Backend Web
+- 🌱 Đang học [tại VKU-Trường đại học Công Nghệ Thông Tin - Truyền Thông Việt Hàn]
+
+## Thống kê GitHub
+[![datqn123](https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=dracula)](https://github.com/datqn123/github-readme-stats)
+
+## Ngôn ngữ lập trình
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&langs_count=8)](https://github.com/datqn123/github-readme-stats)
