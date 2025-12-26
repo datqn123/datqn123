@@ -23,7 +23,7 @@ Welcome to my profile. I hope you can see something interesting here.
 
 ### 🏆 Featured Projects
 
-| Tên Dự Án | Mô tả ngắn gọn | Công nghệ | Link |
+| Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Project TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards.  | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo.git) / [Demo](https://trip-go-eight.vercel.app/) |
 
@@ -43,4 +43,3 @@ Welcome to my profile. I hope you can see something interesting here.
   Connect with me: <br/>
   <a href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-![datne123's GitHub stats](https://github-readme-stats.vercel.app/api?datne123=anuraghazra&show_icons=true&theme=radical)
