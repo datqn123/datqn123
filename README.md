@@ -28,7 +28,12 @@ Welcome to my profile. I specialize in building scalable web applications.
 
 ---
 ### 📌 Top Project
-[![TripGo Project](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=TripGo&theme=radical)](https://github.com/datqn123/TripGo)
+
+| **TripGo** | [![Stars](https://img.shields.io/github/stars/datqn123/TripGo?style=social)](https://github.com/datqn123/TripGo) [![Forks](https://img.shields.io/github/forks/datqn123/TripGo?style=social)](https://github.com/datqn123/TripGo) |
+| :--- | :--- |
+| **Description** | Ứng dụng đặt tour du lịch đa nền tảng (Cross-platform Travel Booking App). |
+| **Tech Stack** | ![Java](https://img.shields.io/badge/Java-Suported-ED8B00?logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-Frontend-20232A?logo=react&logoColor=61DAFB) |
+| **Link** | [📂 View Repository](https://github.com/datqn123/TripGo) |
 
 <div align="center">
   Connect with me: <br/>
