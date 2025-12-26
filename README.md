@@ -22,16 +22,10 @@ Welcome to my profile. I specialize in building scalable web applications.
 ---
 ### 🏆 Featured Projects
 
-| 📸 Demo / Screenshot | 📝 Project Info |
-| :--- | :--- |
-| <img src="https://via.placeholder.com/400x200?text=TripGo+Screenshot" width="100%"> <br/> *(Thay link ảnh dự án của bạn vào đây)* | **Project: TripGo - Travel Booking App** <br/> <br/> Ứng dụng đặt tour và vé du lịch đa nền tảng tích hợp thanh toán online. <br/> <br/> **🛠 Tech Stack:** <br/> - **Backend:** Java Spring Boot, MySQL, Redis, Kafka <br/> - **Frontend:** ReactJS, TailwindCSS <br/> - **Infrastructure:** Docker, RESTful API <br/> <br/> 🔗 **[View Repository](https://github.com/datqn123/TripGo)** <br/> 🔴 **[Live Demo](https://trip-go-eight.vercel.app/)** |
-| <img src="https://via.placeholder.com/400x200?text=Another+Project" width="100%"> | **Project: Tên Dự Án Khác** <br/> <br/> Mô tả ngắn gọn về dự án thứ 2 của bạn (ví dụ: Website bán hàng, Quản lý sinh viên...). <br/> <br/> **🛠 Tech Stack:** <br/> - Java, Servlet, JSP... <br/> <br/> 🔗 **[View Repository](#)** |
-
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Link |
+| Project | Description & Key Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) / [Demo](https://trip-go-eight.vercel.app/) |
+| **TripGo** <br/> *(Travel Booking App)* | **Ứng dụng đặt tour và vé du lịch đa nền tảng.** <br/> • Tích hợp thanh toán trực tuyến. <br/> • Kiến trúc Microservices/RESTful API chuẩn. <br/> • Tối ưu hiệu năng với Redis Caching & Kafka. | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) <br/> ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) <br/> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [📂 Repo](https://github.com/datqn123/TripGo) <br/> [🔴 Demo](https://trip-go-eight.vercel.app/) |
+| **Project 2** <br/> *(Tên dự án)* | **Mô tả ngắn gọn về dự án thứ 2.** <br/> • Tính năng nổi bật A. <br/> • Tính năng nổi bật B. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | [📂 Repo](#) |
 
 ---
 
