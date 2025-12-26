@@ -1,16 +1,15 @@
-# Hi there, I'm [Tên của bạn]! 👋
+# Hi there, I'm Dat! 👋
 
-### 👨‍💻 Full Stack Developer | Java & React Enthusiast
-*(Hoặc vị trí bạn đang ứng tuyển: Backend Developer / Data Engineer...)*
+### 👨‍💻 Full Stack Developer | Java & React
 
-Chào mừng đến với không gian làm việc của tôi! Tôi đam mê xây dựng các hệ thống có khả năng mở rộng và giải quyết các bài toán thực tế bằng công nghệ.
+Welcome to my profile. I hope you can see something interesting here.
 
 ---
 
 ### 🚀 About Me
-- 🔭 Hiện tôi đang làm việc/phát triển dự án về **[Tên lĩnh vực/Dự án chính]**.
-- 🌱 Tôi đang tìm hiểu sâu về **[Công nghệ mới bạn đang học, ví dụ: Kafka, Microservices]**.
-- 👯 Tôi đang tìm kiếm cơ hội làm việc tại vị trí **[Vị trí mong muốn]**.
+- 🔭 I'm learning at VKU in Da Nang city.
+- 🌱 My major is Software Engineering and I specialize in building web applications.
+- 👯 I am looking for a Fresher FullStack position. **[Vị trí mong muốn]**.
 - 💬 Hỏi tôi về: **Java, Spring Boot, ReactJS, Database Optimization**.
 - 📫 Liên hệ với tôi qua: [Email](mailto:email-cua-ban@gmail.com) hoặc [LinkedIn](Link-Linkedin-cua-ban).
 
