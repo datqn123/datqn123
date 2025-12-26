@@ -25,7 +25,6 @@ Welcome to my profile. I specialize in building scalable web applications.
 | Project | Description & Key Features | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **TripGo** <br/> *(Travel Booking App)* | **Ứng dụng đặt tour và vé du lịch đa nền tảng.** <br/> • Tích hợp thanh toán trực tuyến. <br/> • Kiến trúc Microservices/RESTful API chuẩn. <br/> • Tối ưu hiệu năng với Redis Caching & Kafka. | ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) <br/> ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) <br/> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | [📂 Repo](https://github.com/datqn123/TripGo) <br/> [🔴 Demo](https://trip-go-eight.vercel.app/) |
-| **Project 2** <br/> *(Tên dự án)* | **Mô tả ngắn gọn về dự án thứ 2.** <br/> • Tính năng nổi bật A. <br/> • Tính năng nổi bật B. | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | [📂 Repo](#) |
 
 ---
 
