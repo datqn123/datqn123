@@ -30,11 +30,9 @@ Welcome to my profile. I specialize in building scalable web applications.
 ---
 
 ### 📈 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=datqn123&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </div>
 
