@@ -30,7 +30,6 @@ Welcome to my profile. I hope you can see something interesting here.
 ---
 
 ### 📈 GitHub Stats
-*(Phần này giúp profile trông "nguy hiểm" và active hơn)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
@@ -38,6 +37,7 @@ Welcome to my profile. I hope you can see something interesting here.
 </div>
 
 ---
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/github-readme-stats)
 
 <div align="center">
   Connect with me: <br/>
