@@ -25,7 +25,7 @@ Welcome to my profile. I hope you find something interesting here.
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) |
+| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) [Demo] (https://trip-go-eight.vercel.app/) |
 
 ---
 
