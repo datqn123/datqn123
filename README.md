@@ -28,20 +28,6 @@ Welcome to my profile. I specialize in building scalable web applications.
 
 ---
 
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=datqn123&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="datqn123" />
-  </a>
-</div>
-
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datqn123&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   Connect with me: <br/>
   <a href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
