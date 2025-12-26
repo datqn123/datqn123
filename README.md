@@ -28,9 +28,7 @@ Welcome to my profile. I specialize in building scalable web applications.
 
 ---
 ### 📌 Top Project
-<a href="https://github.com/datqn123/TripGo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=TripGo&theme=radical" />
-</a>
+[![TripGo Project](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=TripGo&theme=radical)](https://github.com/datqn123/TripGo)
 
 <div align="center">
   Connect with me: <br/>
