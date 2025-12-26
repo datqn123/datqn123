@@ -2,16 +2,15 @@
 
 ### 👨‍💻 Full Stack Developer | Java & React
 
-Welcome to my profile. I hope you can see something interesting here.
+Welcome to my profile. I hope you find something interesting here.
 
 ---
-[![datqn123's GitHub stats](https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true)](https://github.com/datqn123)
 
 ### 🚀 About Me
-- 🔭 I'm learning at VKU in Da Nang city.
-- 🌱 My major is Software Engineering and I specialize in building web applications.
-- 👯 I am looking for a **[Fresher FullStack]**position.
-- 📫 Contact with me: [Email](nguyenchidat864@gmail.com) hoặc [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/).
+- 🔭 I'm a student at **Vietnam-Korea University (VKU)** in Da Nang.
+- 🌱 My major is Software Engineering and I specialize in **building web applications**.
+- 👯 I am looking for a **Fresher Full Stack Developer** position.
+- 📫 Reach me via: [Email](mailto:nguyenchidat864@gmail.com) or [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/).
 
 ---
 
@@ -26,10 +25,17 @@ Welcome to my profile. I hope you can see something interesting here.
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards.  | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo.git) / [Demo](https://trip-go-eight.vercel.app/) |
+| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) / [Demo](https://trip-go-eight.vercel.app/) |
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/TripGo.git)
+
+### 📌 Pinned Project
+<a href="https://github.com/datqn123/TripGo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=TripGo&theme=radical" />
+</a>
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -38,7 +44,6 @@ Welcome to my profile. I hope you can see something interesting here.
 </div>
 
 ---
-
 
 <div align="center">
   Connect with me: <br/>
