@@ -9,15 +9,12 @@ Welcome to my profile. I hope you can see something interesting here.
 ### 🚀 About Me
 - 🔭 I'm learning at VKU in Da Nang city.
 - 🌱 My major is Software Engineering and I specialize in building web applications.
-- 👯 I am looking for a Fresher FullStack position. **[Vị trí mong muốn]**.
-- 💬 Hỏi tôi về: **Java, Spring Boot, ReactJS, Database Optimization**.
-- 📫 Liên hệ với tôi qua: [Email](mailto:email-cua-ban@gmail.com) hoặc [LinkedIn](Link-Linkedin-cua-ban).
+- 👯 I am looking for a **[Fresher FullStack]**position.
+- 📫 Contact with me: [Email](nguyenchidat864@gmail.com) hoặc [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/).
 
 ---
 
 ### 🛠 Tech Stack
-*(Sử dụng icon giúp NTD nắm bắt nhanh kỹ năng của bạn)*
-
 | Backend | Frontend | Database & Tools |
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
