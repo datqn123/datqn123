@@ -37,7 +37,7 @@ Welcome to my profile. I hope you can see something interesting here.
 </div>
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/TripGo.git)
 
 <div align="center">
   Connect with me: <br/>
