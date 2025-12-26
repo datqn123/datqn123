@@ -29,11 +29,16 @@ Welcome to my profile. I specialize in building scalable web applications.
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true)
+### 🏆 Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datqn123&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=datqn123&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" alt="datqn123" />
+  </a>
+</div>
+
+### 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datqn123&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
