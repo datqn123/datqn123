@@ -2,14 +2,14 @@
 
 ### 👨‍💻 Full Stack Developer | Java & React
 
-Welcome to my profile. I hope you find something interesting here.
+Welcome to my profile. I specialize in building scalable web applications.
 
 ---
 
 ### 🚀 About Me
 - 🔭 I'm a student at **Vietnam-Korea University (VKU)** in Da Nang.
-- 🌱 My major is Software Engineering and I specialize in **building web applications**.
-- 👯 I am looking for a **Fresher Full Stack Developer** position.
+- 🌱 My major is **Software Engineering**.
+- 👯 I am actively seeking a **Fresher Full Stack Developer** position.
 - 📫 Reach me via: [Email](mailto:nguyenchidat864@gmail.com) or [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1t-nguy%E1%BB%85n-aa3052349/).
 
 ---
@@ -25,14 +25,18 @@ Welcome to my profile. I hope you find something interesting here.
 
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) [Demo] (https://trip-go-eight.vercel.app/) |
+| **TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards. | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo) / [Demo](https://trip-go-eight.vercel.app/) |
 
 ---
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datqn123&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
 
 ---
 
