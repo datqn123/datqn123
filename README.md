@@ -29,7 +29,7 @@ Welcome to my profile. I hope you can see something interesting here.
 | **Project TripGo** | A cross-platform travel booking application with integrated payments, built on RESTful API standards.  | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo.git) / [Demo](https://trip-go-eight.vercel.app/) |
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/TripGo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=datqn123&repo=github-readme-stats)](https://github.com/datqn123/TripGo.git)
 ### 📈 GitHub Stats
 
 <div align="center">
