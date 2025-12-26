@@ -25,8 +25,7 @@ Welcome to my profile. I hope you can see something interesting here.
 
 | Tên Dự Án | Mô tả ngắn gọn | Công nghệ | Link |
 | :--- | :--- | :--- | :--- |
-| **Dự án A** | Hệ thống E-commerce với khả năng chịu tải cao, tích hợp thanh toán. | Spring Boot, React, Redis | [Repo](#) / [Demo](#) |
-| **Dự án B** | Ứng dụng quản lý Task realtime. | Node.js, Socket.io, MongoDB | [Repo](#) / [Demo](#) |
+| **Project TripGo** | Application  | Spring Boot, React, Redis, Kafka, Tailwind | [Repo](https://github.com/datqn123/TripGo.git) / [Demo](https://trip-go-eight.vercel.app/) |
 
 ---
 
@@ -34,8 +33,8 @@ Welcome to my profile. I hope you can see something interesting here.
 *(Phần này giúp profile trông "nguy hiểm" và active hơn)*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[datqn123]&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[datqn123]&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=datqn123&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datqn123&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ---
